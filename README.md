@@ -16,7 +16,7 @@ The goal of this project was to create a functional electronic organ that genera
 * **PWM Generation:** Sound is produced via Pulse Width Modulation by toggling the buzzer state based on calculated clock dividers.
 
 ### Hardware Requirements
-* **Board:** Arty A7-35T or A7-100T.
+* **Board:** Arty A7
 * **Peripherals:** 4 Buttons, 4 Switches, 4 RGB LEDs, and an internal Buzzer.
 
 ---
